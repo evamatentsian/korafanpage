@@ -7,4 +7,5 @@ She is so *cute*
 - She loves to eat pig ears
 ## Kora
 ### Kora
-Learn more about Dutch Shepards here: 
+
+Learn more about Dutch Shepards here: [Duck Duck Go](https://www.akc.org/dog-breeds/dutch-shepherd/)
