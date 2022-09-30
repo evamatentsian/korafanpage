@@ -1,4 +1,4 @@
-# korafanpage
+# <span style="color: #f06292;">KORA FANPAGE</span>
 # Kora
 I **love** Kora a lot
 She is so *cute*
@@ -12,4 +12,4 @@ Learn more about Dutch Shepards here: [Dutch Shepards](https://www.akc.org/dog-b
 
 ![Kora at 3 months](https://user-images.githubusercontent.com/114503116/193169859-45bef06f-2f96-4839-b1e6-08944fa39e17.jpeg)
 - #f06292
-<span style="color: red;">hi</span>
+<span style="color: #f06292;">hi</span>
