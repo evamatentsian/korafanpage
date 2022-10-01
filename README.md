@@ -33,6 +33,3 @@ Kora is a great companion. She accompanies her owners everywhere. Her unconditio
 
 ![Kora Nibbling on a bone](https://user-images.githubusercontent.com/114503116/193423406-1d378e6a-8a87-431b-9eac-7e5a234dd07d.png)
 
-
-
-<span style="color: #f06292;">hi</span>
