@@ -13,7 +13,7 @@
 - She was the first born puppy
 - Her favorite hobby is hiking
 
-Learn more about[Dutch Shepards](https://www.akc.org/dog-breeds/dutch-shepherd/).
+Learn more about [Dutch Shepards](https://www.akc.org/dog-breeds/dutch-shepherd/).
 
 
 ## <span style="color: #b92864;">Kora's Knowledge</span>
